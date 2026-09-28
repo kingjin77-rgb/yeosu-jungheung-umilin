@@ -2,8 +2,8 @@
   "id": "./",
   "name": "여수 소제 중흥S-클래스 우미린 입주예정자협의회",
   "short_name": "여수",
-  "description": "여수 소제 중흥S-클래스 우미린 입주예정자협의회 플랫폼 · 법무법인 제이엘",
-  "start_url": "./",
+  "description": "여수 소제 중흥S-클래스 우미린 전자 위임장 · 법무법인 제이엘",
+  "start_url": "./#delegate",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
@@ -39,16 +39,6 @@
     {
       "name": "위임장 제출",
       "url": "./#delegate",
-      "icons": [
-        {
-          "src": "icon-192.png",
-          "sizes": "192x192"
-        }
-      ]
-    },
-    {
-      "name": "내 접수 확인",
-      "url": "./#check",
       "icons": [
         {
           "src": "icon-192.png",
